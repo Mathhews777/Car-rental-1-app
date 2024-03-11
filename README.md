@@ -45,4 +45,4 @@ License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes.
 Contact
 
-For any questions, feedback, or inquiries, please contact project-team@example.com. We'd love to hear from you!
+For any questions, feedback, or inquiries, please contact matthewthato74@gmail.com We'd love to hear from you!
